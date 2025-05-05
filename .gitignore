@@ -171,3 +171,4 @@ Thumbs.db
 
 #models
 checkpoints/*
+TDNet_VideoSegmentation/Testing/model/checkpoint/*
